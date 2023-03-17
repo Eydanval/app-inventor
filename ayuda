@@ -13,5 +13,9 @@
 	{
 		"pregunta": "compartir app QR",
 		"respuesta": "para compartir la app solo debes dar al boton compartir app, que te llevará a una pestaña donde deberás generar un código QR.\n Cuando se abra esa pestaña, pulsas en generar codigo QR y esperas a que aparezca el codigo para que pueda ser escaneado por los demás y asi la compartes"
+	},
+	{
+		"pregunta": "Nuestro foro",
+		"respuesta": "https://yaxxoyt.wixsite.com/damp"
 	}
 ]
